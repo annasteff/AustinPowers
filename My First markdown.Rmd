@@ -1,4 +1,4 @@
-![Caption](C:/Users/mecha/Documents/Dat 3 - csafE/---
+---
 title: "My First Markdown"
 author: "Anna Steffensmeier"
 date: "June 2, 2017"
@@ -55,4 +55,6 @@ To make a footnote, do the following code [^1]
 [^1]: The footnote will show up at the end of your page
 
 ![Caption](5_powers_chest_hair.jpg)
+
+![Caption](austin-powers.jpg)
 
